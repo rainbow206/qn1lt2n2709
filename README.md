@@ -14,7 +14,7 @@
   <i> ( 请点击下面的文本框，查看里面那些令你印象深刻的视频。) </i>
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="v" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之謎？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之謎？" alt="视频: 世界上有多少未解之謎？"></a></p>
+<p><a href="https://gitlab.com/motdoivamai193/qn1lc1n1709/-/raw/main/vd1.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 世界上有多少未解之謎？-009fcc?logoWidth=1" title="视频: 世界上有多少未解之謎？" alt="视频: 世界上有多少未解之謎？"></a></p>
 <p><a href="https://gitlab.com/lominhtan992/lingdan16/-/raw/main/shenyun1.mp4 " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/视频: 顶级艺术 -009fcc?logoWidth=1" title="视频: 顶级艺术" alt="视频:  顶级艺术"></a></p>  
 <p><a href="https://gitlab.com/haydeanhyen472/xiaoling05/-/raw/main/6-4.mp4" target=_blank><img width="330" height="40" src="https://img.shields.io/badge/ 六四30周年 天安门大屠杀 看图见真相-009fcc?logoWidth=1" title="六四30周年 天安门大屠杀 看图见真相 " alt="六四30周年 天安门大屠杀 看图见真相 "></a></p>
  
@@ -50,7 +50,7 @@
 .
 <img src="/anh/haha.jpg"><br>
   
-<p><a href="http://td.duongve2.life/bighopes " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
+<p><a href="http://immortalflower.info " target=_blank><img width="330" height="40" src="https://img.shields.io/badge/我们郑重的送你一份保平安的礼物-yellow?logoWidth=1" title="我们郑重的送你一份保平安的礼物" alt="我们郑重的送你一份保平安的礼物"></a></p>  
 
 
 <img src="/anh/haha.jpg"><br>
@@ -65,10 +65,6 @@
 <p>我们非常珍惜这个机缘！ 你已经平安了，所以我们希望你的家人也得到平安。 请帮助他们！ 不要让他们错过这个机缘！ </p>
 
 
-  
-  
-  
-  
   
   
   
